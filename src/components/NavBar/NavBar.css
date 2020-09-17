@@ -1,0 +1,8 @@
+.nav-wrapper
+{
+   width:100vw;
+   display:flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+   padding:10px;
+}
